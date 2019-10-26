@@ -49,44 +49,50 @@
     
 
 
-<h2>Crust Options</h2>
+<h2 class="optiontitle">Crust Options</h2>
 
-<input type="radio" id="thin" name="crust" value="thin" checked>
+<div class="crust">
+<input type="radio" id="thin" name="crust" value="thin" class="pizza" checked>
 <label for="thin">Thin</label>
 
-<input type="radio" id="thick" name="crust" value="thick" checked>
+<input type="radio" id="thick" name="crust" value="thick" class="pizza" checked>
 <label for="thick">Thick</label>
+</div>
 
+<h2 class="optiontitle">Topping Options</h2>
 
-<h2>Topping Options</h2>
-
-<input type="radio" id="sausage" name="topping" value="sausage">
+<div class="topping">
+<input type="radio" id="sausage" name="topping" value="sausage" class="pizza">
 <label for="sausage">Sausage</label>
 
-<input type="radio" id="pepporoni" name="topping" value="pepporoni" checked>
+<input type="radio" id="pepporoni" name="topping" value="pepporoni" class="pizza" checked>
 <label for="pepporoni">Pepperoni</label>
+</div>
+
+<h2 class="optiontitle">Size Options</h2>
 
 
-<h2>Size Options</h2>
-
-<input type="radio" id="small" name="size" value="small" checked>
+<div class="size">
+<input type="radio" id="small" name="size" value="small" class="pizza" checked>
 <label for="small">Small</label>
 
-<input type="radio" id="large" name="size" value="large" checked>
+<input type="radio" id="large" name="size" value="large" class="pizza" checked>
 <label for="large">Large</label>
-
-
-<h2>Time to Eat</h2>
-<button id='build'>Build Pizza</button>
-
-
-<h2>Shopping List</h2>
-<button id='shopping'>Shopping List</button>
+</div>
 
 
 
-<h2>Messages back to the user</h2>
-<p id="feedback"></p>
+<h2 class="optiontitle">Time to Eat</h2>
+<button id='build' class="button">Build Pizza</button>
+
+
+<h2 class="optiontitle">Shopping List</h2>
+<button id='shopping' class="button">Shopping List</button>
+
+
+
+<h2 class="optiontitle">Messages back to the user</h2>
+<p id="feedback" class="message"></p>
 
 </main>
     

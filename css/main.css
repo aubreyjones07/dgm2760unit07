@@ -33,11 +33,6 @@ figure.heroimage {width: 100%;}
     
 }
 
-.name {
-    
-
-}
-
 
 
 .companyname { 
@@ -80,90 +75,50 @@ figure.heroimage {width: 100%;}
 }
 
 
-.whatstheword {
+.optiontitle {
+    padding-left: 50px; 
+
+
+
+}
+
+.crust {
     padding-left: 50px; 
 
 
 }
 
+.topping {
+    padding-left: 50px; 
 
-.textbox {
+
+}
+
+.size {
+    padding-left: 50px; 
+
+
+
+}
+
+.button {
     margin-left: 50px; 
-    font-size: 16px; 
-
-
-
-}
-
-
-.storybutton {
-    margin-left: 120px;
-    margin-top: 20px;  
-    padding-bottom: 10px; 
-    width: 180px; 
-    height: 40px; 
-    background-color: midnightblue;  
+    padding: 10px; 
+    width: 150px; 
+    border-radius: 20px; 
+    background-color: darkred; 
     color: white; 
-    font-family: "lato"; 
-    font-variant-caps: all-small-caps;
-    font-size: 24px;  
-
-
+    font-size: 20px; 
 }
 
-.thisisthestory {
+
+.message {
+    font-size: 20px; 
     margin-left: 50px; 
     margin-right: 50px; 
- 
-
-}
-
-
-
-
-
-.cbimage {
-position: absolute; 
-top: 43%; 
-left: 80%; 
-transform: translate(-50%, -75%); 
-text-align: center;
-font-size: 36px;  
-}
-
-.errorresponse {
-    padding: 20px; 
-    font-size: 16px; 
 
 
 }
-
-
-
-
-.results {
-    padding: 50px;  
-    font-size: 20px;
-    display: block; 
-    line-height: 50px; 
-}
-
-
-
-
-.resultsbutton {
-    padding: 15px; 
-    margin: 20px; 
-    font-size: 16px;
-    background-color: darkgreen; 
-    color: white;  
-}
-
-
-
-
-
-
 
 
 .copyright {
