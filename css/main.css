@@ -1,0 +1,179 @@
+body {
+font-family: "roboto"; 
+
+
+}
+
+
+
+.header { 
+    margin: 0px auto;
+   
+}
+
+.main, .footer {
+    margin: 0px auto; 
+    max-width: 1200px; 
+
+}
+
+
+figure.heroimage img, figure.heroimage img {width: 100%; max-width: 1200px;}
+figure.heroimage {width: 100%;}
+
+
+.companyname, .companyslogan {
+    font-family: 'roboto';  
+    position: absolute;  
+    color: #ffffff; 
+    left: 70px;
+    font-weight: bolder;
+    opacity: 0.8;
+  filter: alpha(opacity=60);
+    
+}
+
+.name {
+    
+
+}
+
+
+
+.companyname { 
+    font-size: 36px;   
+    top: 5px; 
+    
+}
+
+.companyslogan {
+    font-size: 30px; 
+    padding-top: 50px;   
+    top: 15px;   
+}
+
+
+.companynamepage {
+    margin-top: 10px; 
+    padding-left: 50px;   
+    padding-top: 30px; 
+    padding-bottom: 10px; 
+    
+}
+
+
+
+.skills {
+    padding-left: 50px;
+    background-color: whitesmoke; 
+    padding-top: 30px; 
+    padding-bottom: 30px;
+    font-size: 24px; 
+   
+}
+
+
+.listofskills {
+    padding-left: 70px; 
+    font-size: 20px; 
+    
+}
+
+
+.whatstheword {
+    padding-left: 50px; 
+
+
+}
+
+
+.textbox {
+    margin-left: 50px; 
+    font-size: 16px; 
+
+
+
+}
+
+
+.storybutton {
+    margin-left: 120px;
+    margin-top: 20px;  
+    padding-bottom: 10px; 
+    width: 180px; 
+    height: 40px; 
+    background-color: midnightblue;  
+    color: white; 
+    font-family: "lato"; 
+    font-variant-caps: all-small-caps;
+    font-size: 24px;  
+
+
+}
+
+.thisisthestory {
+    margin-left: 50px; 
+    margin-right: 50px; 
+ 
+
+}
+
+
+
+
+
+.cbimage {
+position: absolute; 
+top: 43%; 
+left: 80%; 
+transform: translate(-50%, -75%); 
+text-align: center;
+font-size: 36px;  
+}
+
+.errorresponse {
+    padding: 20px; 
+    font-size: 16px; 
+
+
+}
+
+
+
+
+.results {
+    padding: 50px;  
+    font-size: 20px;
+    display: block; 
+    line-height: 50px; 
+}
+
+
+
+
+.resultsbutton {
+    padding: 15px; 
+    margin: 20px; 
+    font-size: 16px;
+    background-color: darkgreen; 
+    color: white;  
+}
+
+
+
+
+
+
+
+
+.copyright {
+    text-align: center; 
+    font-size: 14px;
+    margin-top: 50px; 
+    padding: 5px; 
+    background-color: #0c0804; 
+    color: white; 
+   
+    
+}
+
